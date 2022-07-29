@@ -4,5 +4,5 @@
 - 💞️ I’m not looking to collaborate at the moment.
 - 📫 You may reach me on Discord below, Twitter at [@retardcone](https://twitter.com/retardcone), and by email at leo@justleo.me.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paraanoia&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atrocitiess&theme=solarized_dark)
 [![Discord Presence](https://lanyard.cnrad.dev/api/309803507249315852)](https://discord.com/users/309803507249315852)
