@@ -5,4 +5,4 @@
 - 📫 You may reach me on Discord below, Twitter at [@kanyewestlov_r](https://twitter.com/kanyewestlov_r), and by email at leo@justleo.me.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notjustleo&theme=solarized_dark)
-[![Discord Presence](https://lanyard.cnrad.dev/api/815784038316113922?idleMessage=probably%20dead%20or%20something%20lol&theme=dark&bg=660401&borderRadius=20px&hideStatus=true)](https://discord.com/users/815784038316113922)
+[![Discord Presence](https://lanyard.cnrad.dev/api/815784038316113922?idleMessage=quit%20snooping%20at%20my%20status%20lol&theme=dark&bg=3b0201&borderRadius=20px&hideStatus=true)](https://discord.com/users/815784038316113922)
