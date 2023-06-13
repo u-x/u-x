@@ -5,4 +5,4 @@
 - 📫 You may reach me on Discord below, Twitter at [@6syxs](https://twitter.com/6syxs), and by email at leo@justleo.me.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sixaine&theme=solarized_dark)
-[![Discord Presence](https://lanyard.cnrad.dev/api/846480086949036032)](https://discord.com/users/815784038316113922)
+[![Discord Presence](https://lanyard.cnrad.dev/api/846480086949036032)](https://discord.com/users/846480086949036032)
