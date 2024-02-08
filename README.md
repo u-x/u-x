@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @6syx, a 17 year old programmer.
+- 👋 Hi, I’m @u-x, a 17 year old programmer.
 - 👀 I’m interested in programming, chess, and gaming.
 - 🌱 I’m currently learning more node.js packages to make every bot I make more collaborative with other services.
 - 💞️ I’m not looking to collaborate at the moment.
