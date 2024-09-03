@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @u-x, a 17 year old programmer.
-- 👀 I’m interested in programming, chess, and gaming.
-- 🌱 I’m currently learning more node.js packages to make every bot I make more collaborative with other services.
+- 👋 Hi, I’m @u-x, a 18 year old programmer.
+- 👀 I’m interested in programming, music, and gaming.
+- 🌱 I'm currently focusing on my studies, but I do plan to publish projects from time to time.
 - 💞️ I’m not looking to collaborate at the moment.
 - 📫 You may reach me on Discord below and by email at leo@notleo.xyz.
 
